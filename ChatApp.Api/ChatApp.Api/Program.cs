@@ -1,4 +1,5 @@
 using ChatApp.Api.Hubs;
+using ChatApp.Api.NewFolder;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,11 +14,15 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("reactApp", builder =>
     {
-        builder.AllowAnyOrigin()
-               .AllowAnyHeader()
-               .AllowAnyMethod();
+        builder.SetIsOriginAllowedToAllowWildcardSubdomains()
+               .WithOrigins("http://localhost:3000") // Removed trailing slash
+               .AllowAnyMethod()
+               .AllowCredentials()
+               .AllowAnyHeader();
     });
 });
+
+builder.Services.AddSingleton<SharedDb>();
 
 var app = builder.Build();
 
