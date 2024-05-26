@@ -7,7 +7,7 @@ const SendMessageForm = ({sendMessage})=>{
     return(
         <Form onSubmit={(e)=>{
             e.preventDefault()
-            e.sendMessage(msg)
+            sendMessage(msg)
             setMessage('')
         }}>
             <InputGroup>
