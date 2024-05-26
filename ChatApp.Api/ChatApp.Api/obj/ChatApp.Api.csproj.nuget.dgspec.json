@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Abdulrehman\\C#Programming\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj": {}
+    "Z:\\Desktop\\Abdulrehman\\React Programming\\FullStack\\ChatApp\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Abdulrehman\\C#Programming\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj": {
+    "Z:\\Desktop\\Abdulrehman\\React Programming\\FullStack\\ChatApp\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Abdulrehman\\C#Programming\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj",
+        "projectUniqueName": "Z:\\Desktop\\Abdulrehman\\React Programming\\FullStack\\ChatApp\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj",
         "projectName": "ChatApp.Api",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Abdulrehman\\C#Programming\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj",
+        "projectPath": "Z:\\Desktop\\Abdulrehman\\React Programming\\FullStack\\ChatApp\\ChatApp.Api\\ChatApp.Api\\ChatApp.Api.csproj",
         "packagesPath": "C:\\Users\\applepc\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Abdulrehman\\C#Programming\\ChatApp.Api\\ChatApp.Api\\obj\\",
+        "outputPath": "Z:\\Desktop\\Abdulrehman\\React Programming\\FullStack\\ChatApp\\ChatApp.Api\\ChatApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

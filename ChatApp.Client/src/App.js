@@ -16,9 +16,12 @@ function App() {
                 .withUrl("https://10.211.55.6:7089/Chat")
                 .configureLogging(LogLevel.Information)
                 .build();
-                
+            
+            
+
             conn.on("JoinSpecificChatRoom", (username, msg) => {
-                console.log("msg: ", username, msg);
+                console.log("msg:", msg);
+                setMsgs(messages => [...messages, { username, msg }])
             });
 
             conn.on("ReceiveSpecificMessage", (username, msg) => {

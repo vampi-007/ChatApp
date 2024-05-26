@@ -36,3 +36,42 @@
 \\Mac\Home\Desktop\Abdulrehman\C#Programming\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 \\Mac\Home\Desktop\Abdulrehman\C#Programming\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
 \\Mac\Home\Desktop\Abdulrehman\C#Programming\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\appsettings.Development.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\appsettings.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\ChatApp.Api.exe
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\ChatApp.Api.deps.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\ChatApp.Api.runtimeconfig.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\ChatApp.Api.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\ChatApp.Api.pdb
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.csproj.AssemblyReference.cache
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.AssemblyInfoInputs.cache
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.AssemblyInfo.cs
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.csproj.CoreCompileInputs.cache
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.MvcApplicationPartsAssemblyInfo.cs
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.sourcelink.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.Api.props
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.Api.props
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.Api.props
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\scopedcss\bundle\ChatApp.Api.styles.css
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.csproj.CopyComplete
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\refint\ChatApp.Api.dll
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.pdb
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ChatApp.Api.genruntimeconfig.cache
+Z:\Desktop\Abdulrehman\React Programming\FullStack\ChatApp\ChatApp.Api\ChatApp.Api\obj\Debug\net8.0\ref\ChatApp.Api.dll
